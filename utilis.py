@@ -1,0 +1,10 @@
+WINDOW_WIDTH = 1000
+WINDOW_HEIGHT = 800
+black = (0,0,0)
+colour1 = (255,0,0)
+colour2=(0,255,0)
+FPS = 3
+right=(30,0)
+left=(-30,0)
+up=(0,-30)
+down=(0,30)
